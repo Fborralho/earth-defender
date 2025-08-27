@@ -3,7 +3,7 @@
 **Earth Defender** is a "shoot 'em up" game inspired by *Space Invaders*, developed as the final project for the **Computer Laboratory (LCOM)** course at FEUP.  
 The game was implemented in **C and Assembly**, focusing on **low-level hardware programming** such as keyboard, mouse, graphics, and timer.
 
-## 🚀 Features
+## Features
 - **Start Menu** with options: Play, Leaderboard (not fully implemented), Instructions, and Quit.
 - **Player spaceship** movement controlled with keyboard:
   - `A` → Move left  
